@@ -112,14 +112,6 @@ exports[`SearchPageComponent matches snapshot 1`] = `
                   "label": "Jacuzzi",
                 },
                 Object {
-                  "key": "lake_view",
-                  "label": "Lake view",
-                },
-                Object {
-                  "key": "sea_view",
-                  "label": "Sea view",
-                },
-                Object {
                   "key": "barbeque",
                   "label": "Barbeque",
                 },
@@ -137,6 +129,35 @@ exports[`SearchPageComponent matches snapshot 1`] = `
               "pub_amenities",
             ],
             "type": "SelectMultipleFilter",
+          },
+          Object {
+            "config": Object {
+              "options": Array [
+                Object {
+                  "key": "sea",
+                  "label": "Sea view",
+                },
+                Object {
+                  "key": "lake",
+                  "label": "Lake view",
+                },
+                Object {
+                  "key": "forest",
+                  "label": "Forest view",
+                },
+                Object {
+                  "key": "garden",
+                  "label": "Garden view",
+                },
+              ],
+            },
+            "group": "secondary",
+            "id": "view",
+            "label": "View",
+            "queryParamNames": Array [
+              "pub_view",
+            ],
+            "type": "SelectSingleFilter",
           },
         ]
       }

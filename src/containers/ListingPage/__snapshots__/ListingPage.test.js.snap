@@ -180,6 +180,10 @@ exports[`ListingPage matches snapshot 1`] = `
               }
               publicData={Object {}}
             />
+            <SectionViewMaybe
+              options={Array []}
+              publicData={Object {}}
+            />
             <SectionRulesMaybe
               className={null}
               publicData={Object {}}
