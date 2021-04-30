@@ -96,8 +96,8 @@ exports[`SearchPageComponent matches snapshot 1`] = `
             "config": Object {
               "options": Array [
                 Object {
-                  "key": "towels",
-                  "label": "Towels",
+                  "key": "terrace",
+                  "label": "Terrace",
                 },
                 Object {
                   "key": "bathroom",
@@ -108,24 +108,24 @@ exports[`SearchPageComponent matches snapshot 1`] = `
                   "label": "Swimming pool",
                 },
                 Object {
-                  "key": "own_drinks",
-                  "label": "Own drinks allowed",
-                },
-                Object {
                   "key": "jacuzzi",
                   "label": "Jacuzzi",
                 },
                 Object {
-                  "key": "audiovisual_entertainment",
-                  "label": "Audiovisual entertainment",
+                  "key": "lake_view",
+                  "label": "Lake view",
+                },
+                Object {
+                  "key": "sea_view",
+                  "label": "Sea view",
                 },
                 Object {
                   "key": "barbeque",
                   "label": "Barbeque",
                 },
                 Object {
-                  "key": "own_food_allowed",
-                  "label": "Own food allowed",
+                  "key": "fireplace",
+                  "label": "Fireplace",
                 },
               ],
               "searchMode": "has_all",
