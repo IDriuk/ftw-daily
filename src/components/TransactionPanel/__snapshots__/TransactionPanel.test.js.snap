@@ -570,7 +570,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           location={Object {}}
           showAddress={false}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -1343,7 +1343,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           listingTitle="listing1 title"
           location={Object {}}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -2118,7 +2118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           location={Object {}}
           showAddress={false}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -2891,7 +2891,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           listingTitle="listing1 title"
           location={Object {}}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -3676,7 +3676,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           location={Object {}}
           showAddress={false}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -4453,7 +4453,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           }
           listingTitle="listing1 title"
           location={Object {}}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -5226,7 +5226,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           listingTitle="listing1 title"
           location={Object {}}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -6001,7 +6001,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           location={Object {}}
           showAddress={false}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -6774,7 +6774,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           listingTitle="listing1 title"
           location={Object {}}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -7549,7 +7549,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           location={Object {}}
           showAddress={false}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -8322,7 +8322,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           listingTitle="listing1 title"
           location={Object {}}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -9097,7 +9097,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           location={Object {}}
           showAddress={false}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -9869,7 +9869,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           }
           listingTitle="listing1 title"
           location={Object {}}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"
@@ -10642,7 +10642,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           listingTitle="listing1 title"
           location={Object {}}
           showDetailCardHeadings={false}
-          subTitle="55 TransactionPanel.perNight"
+          subTitle="55 TransactionPanel.perDay"
         />
         <BreakdownMaybe
           className="breakdownContainer"

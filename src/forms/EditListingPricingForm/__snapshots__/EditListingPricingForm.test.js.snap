@@ -13,7 +13,7 @@ exports[`EditListingPricingForm matches snapshot 1`] = `
     <label
       htmlFor="price"
     >
-      EditListingPricingForm.pricePerNight
+      EditListingPricingForm.pricePerDay
     </label>
     <input
       autoFocus={true}
@@ -23,6 +23,25 @@ exports[`EditListingPricingForm matches snapshot 1`] = `
       onChange={[Function]}
       onFocus={[Function]}
       placeholder="EditListingPricingForm.priceInputPlaceholder"
+      type="text"
+      value=""
+    />
+  </div>
+  <div
+    className="cleaningFeeInput"
+  >
+    <label
+      htmlFor="cleaningFee"
+    >
+      EditListingPricingForm.cleaningFeeMessage
+    </label>
+    <input
+      className="input inputSuccess"
+      id="cleaningFee"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="EditListingPricingForm.cleaningFeePlaceholderMessage"
       type="text"
       value=""
     />
