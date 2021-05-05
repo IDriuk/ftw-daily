@@ -139,6 +139,10 @@
    :on :transition/confirm-payment,
    :to :actor.role/provider,
    :template :new-booking-request}
+  {:name :notification/new-booking-request-for-customer
+   :on :transition/confirm-payment
+   :to :actor.role/customer
+   :template :new-booking-request-for-customer}
   {:name :notification/booking-request-accepted,
    :on :transition/accept,
    :to :actor.role/customer,
