@@ -180,6 +180,7 @@ export class CheckoutPageComponent extends Component {
       !isBookingCreated;
 
     if (shouldFetchSpeculatedTransaction) {
+      const hasCleaningFee = pageData.bookingData.cleaningFee && pageData.bookingData.cleaningFee.length > 0
       const listingId = pageData.listing.id;
       const transactionId = tx ? tx.id : null;
       const { bookingStart, bookingEnd } = pageData.bookingDates;
@@ -197,6 +198,7 @@ export class CheckoutPageComponent extends Component {
           listingId,
           bookingStart: bookingStartForAPI,
           bookingEnd: bookingEndForAPI,
+          hasCleaningFee
         },
         transactionId
       );
@@ -375,13 +377,15 @@ export class CheckoutPageComponent extends Component {
         ? { setupPaymentMethodForSaving: true }
         : {};
 
+    const hasCleaningFee = pageData.bookingData.cleaningFee && pageData.bookingData.cleaningFee.length > 0
     const orderParams = {
       listingId: pageData.listing.id,
       bookingStart: tx.booking.attributes.start,
       bookingEnd: tx.booking.attributes.end,
+      hasCleaningFee,
       ...optionalPaymentParams,
     };
-
+    
     return handlePaymentIntentCreation(orderParams);
   }
 
