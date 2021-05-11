@@ -30,6 +30,26 @@ exports[`SignupForm matches snapshot 1`] = `
       />
     </div>
     <div
+      className="root phone"
+    >
+      <label
+        htmlFor="phoneNumber"
+      >
+        SignupForm.phoneLabel
+      </label>
+      <input
+        className="input"
+        id="phoneNumber"
+        name="phoneNumber"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="SignupForm.phonePlaceholder"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
       className="name"
     >
       <div
